@@ -55,3 +55,5 @@ jobs:
         with:
           name: fuxi-xnu-boot
           path: src/shim/out/fuxi-loader/Image
+
+# enable workflows on this fork (touched by the agent)
